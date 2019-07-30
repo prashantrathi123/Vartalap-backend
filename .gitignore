@@ -1,0 +1,3 @@
+# Node build artifacts
+server/node_modules
+frontend/node_modules
